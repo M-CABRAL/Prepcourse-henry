@@ -1,2 +1,2 @@
-# Prepcourse-henry
-Este es un repositorio del modulo 2 de prepcourse de Henry 
+PRUEBA DE COMO CREAR UN REPOSITORIO EN Y COMO CLONARLO DESDE HITHUB A MI COMPUTADORA
+
